@@ -1,3 +1,7 @@
+// Author: Humayra Mahboob
+// Date: 2/23/2023
+// Course: CS-135
+// Assignment: LAB 4
 #include <iostream>
 #include <string>
 #include "funcs.h"
